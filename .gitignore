@@ -1,0 +1,4 @@
+.env
+env
+cliweather_agung.egg-info
+__pycache__
